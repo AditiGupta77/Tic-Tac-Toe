@@ -1,5 +1,8 @@
 # Tic Tac Toe
 
+## Demo Video 
+https://github.com/AditiGupta77/Tic-Tac-Toe/assets/113333470/76768421-9dc4-4fcd-95f5-11420550ee7c
+
 ## Overview
 
 Welcome to Tic Tac Toe, the classic X-Zero game app . This multiplayer game allows two players to compete against each other. The app features two modes: single-player and two-player.
